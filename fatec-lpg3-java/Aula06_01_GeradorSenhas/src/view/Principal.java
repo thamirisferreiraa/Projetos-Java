@@ -6,6 +6,7 @@ import business.IGeradorSenha;
 
 public class Principal {
 
+    // Alunos: Thamiris Ferreira e Rafael Daniel Durval
     public static void main(String[] args) {
 
         IGeradorSenha gerador = new GeradorSenhaForte(12);
